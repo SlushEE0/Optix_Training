@@ -1,14 +1,5 @@
-void main() {
-    System.out.println("\u001B[31m\n\n\n");
-    yourCode();
+public static void main(String[] args) {
+    System.out.println("\u001B[31m\n");
+    System.out.println("Hello World!");
     System.out.println("\n\n\n");
-}
-
-
-
-
-
-void yourCode() {
-    // Code Here
-    System.out.println("hellow");
 }
